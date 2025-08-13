@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://megjulie00-coder.github.io/empire-hub/sitemap.xml
